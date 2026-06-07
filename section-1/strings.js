@@ -22,3 +22,6 @@ console.log(anotherString)
 const newString2 = "  kartik  "
 console.log(newString2)
 console.log(newString2.trim())
+
+const url = "https://www.youtube.com/channel/kartikey@#kesharwani"
+console.log(url.replace("@#","-"))
